@@ -1,1 +1,3 @@
-# TeamFR01
+# Company Capstone - Fishku
+
+Case : Fish recomendation
